@@ -34,10 +34,20 @@ button{
     border-radius: 8px;
 }
 .descripcion{
-    background-color: hotpink;
+    background-color: rgb(80, 78, 78);
     height: 150px;
     text-align: center;
     color: lavenderblush;
+}
+.parrafo{
+    padding: 60px;
+}
+
+.razas{
+    text-align: center;
+    padding-top: 60px;
+    color: purple;
+    font-size: 30px;
 }
 section img{
     width: 120px;
