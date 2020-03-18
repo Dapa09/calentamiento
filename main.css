@@ -22,16 +22,15 @@ header h1{
 input {
     width: 350px;
     height: 20px;
-    margin-left: 120px;
-    border-radius: 8px;
+    margin-right:-12px;
+    margin-left: 190px;
 }
 button{
-    background-color:purple;
+    background-color: purple;
     color: thistle;
     border: none;
     width: 65px;
     height: 26px;
-    border-radius: 8px;
 }
 .descripcion{
     background-color: rgb(80, 78, 78);
@@ -51,6 +50,10 @@ button{
 }
 section img{
     width: 120px;
+    padding: 20px;
+}
+section img:hover{
+    width: 120px;
 }
 
 .footer{
@@ -58,6 +61,8 @@ section img{
     height: 100px;
     color: lavenderblush;
     font-size: 10px;
+    text-align: center;
+    padding-top: 40px;
 }
 .contacto{
     text-align: center;
