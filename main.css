@@ -5,11 +5,11 @@ body, *{
 }
 header{
     background-color: rgb(44, 42, 42);
-    height: 300px;
+    height: 150px;
     
 }
 header img{
-    width: 60px;
+    width: 40px;
     border-radius: 50px;
     margin: 20px 0 0 20px;
     display: inline-block;
@@ -18,6 +18,20 @@ header h1{
     color: honeydew;
     display: inline-block;
     margin-left: 20px;
+}
+input {
+    width: 350px;
+    height: 20px;
+    margin-left: 120px;
+    border-radius: 8px;
+}
+button{
+    background-color:purple;
+    color: thistle;
+    border: none;
+    width: 65px;
+    height: 26px;
+    border-radius: 8px;
 }
 .descripcion{
     background-color: hotpink;
