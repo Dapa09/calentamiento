@@ -1,0 +1,42 @@
+body, *{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(44, 42, 42);
+    height: 300px;
+    
+}
+header img{
+    width: 60px;
+    border-radius: 50px;
+    margin: 20px 0 0 20px;
+    display: inline-block;
+}
+header h1{
+    color: honeydew;
+    display: inline-block;
+    margin-left: 20px;
+}
+.descripcion{
+    background-color: hotpink;
+    height: 150px;
+    text-align: center;
+    color: lavenderblush;
+}
+section img{
+    width: 120px;
+}
+
+.footer{
+    background-color: rgb(44, 42, 42);
+    height: 100px;
+    color: lavenderblush;
+    font-size: 10px;
+}
+.contacto{
+    text-align: center;
+    height: 100px;
+    margin-top: 20px;
+}
